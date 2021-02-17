@@ -1,6 +1,4 @@
-# Project1_Team3
-Columbia Bootcamp project 1
-
+# NYC Subway Pandemic Analysis
 
 Project Title: Subway Ridership in New York City during the Coronavirus Pandemic
 Team Members: Kathyrn Buckwalter, Julissa Guzman, Patrick Saitta, Eddie Xu, Mackenzie Baucum & Genevieve Sloup
