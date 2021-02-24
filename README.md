@@ -1,7 +1,15 @@
 # NYC Subway Pandemic Analysis
 
 Project Title: Subway Ridership in New York City during the Coronavirus Pandemic
-Team Members: Kathyrn Buckwalter, Julissa Guzman, Patrick Saitta, Eddie Xu, Mackenzie Baucum & Genevieve Sloup
+
+Team Members: 
+- Kathyrn Buckwalter
+- Julissa Guzman
+- Patrick Saitta
+- Eddie Xu
+- Mackenzie Baucum
+- Genevieve Sloup
+
 Project Description: Assess ridership of Subways in New York City during the Coronavirus Pandemic as compared to 2019. 
 MTA turnstyle data from last week of March (Saturday - Friday)
 
